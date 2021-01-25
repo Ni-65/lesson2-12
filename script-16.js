@@ -35,7 +35,7 @@ const logger = function(){
 logger();
 //===================
 //! function СТРЕЛОЧНАЯ
-const calc = a => a + b;
+// const calc = a => a + b;
 // const calc = (a, b) => a + b;
 // const calc = (a, b) => {
 // 	console.log('1');
